@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1684330732"/>
+  <Params Value=" -MObjFPC -Scghi -CX -Cg -Os3 -Xs -XX -l -vewnhibq -Fi/home/tinnes/Dokumente/Netzwerkstatus-2025/lib/x86_64-linux -Fu/home/tinnes/.lazarus/lib/units/x86_64-linux/gtk2 -Fu/home/tinnes/.lazarus/lib/LCLBase/units/x86_64-linux -Fu/home/tinnes/.lazarus/lib/freetypelaz/lib/x86_64-linux -Fu/home/tinnes/.lazarus/lib/LazUtils/lib/x86_64-linux -Fu/usr/lib64/lazarus/packager/units/x86_64-linux -Fu/home/tinnes/Dokumente/Netzwerkstatus-2025/ -FU/home/tinnes/Dokumente/Netzwerkstatus-2025/lib/x86_64-linux/ -FE/home/tinnes/Dokumente/Netzwerkstatus-2025/ -o/home/tinnes/Dokumente/Netzwerkstatus-2025/Netzstatus -dLCL -dLCLgtk2 -dUseCThreads Netzstatus.lpr"/>
+</CONFIG>

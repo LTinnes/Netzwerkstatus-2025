@@ -1,0 +1,17 @@
+- Fix/Neu : HEX2IPV6
+- CloseSocket Funktion
+- Fix: Kein Zugriff Bug nach 2min laufzeit
+- Host Spalte hinzufügen
+- git repo
+- lizenz
+- rpm / deb pkg's
+- windows port
+- hips funktionen (taskman, ark, ...)
+- Red Flag Alert und hintergrund tasking
+- autokill bei blacklist
+
+
+Neues Grunddesign:
+- netfilter treiber integration
+- autoblock firewall
+- ....
